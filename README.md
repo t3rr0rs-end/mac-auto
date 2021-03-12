@@ -10,7 +10,7 @@ macchanger<br/>
 
 <i>Instructions</i><br/>
 Git clone this repository
-cd info mac-auto folder<br/>
+cd into mac-auto folder<br/>
 
 $ sudo python3 mac_auto.py
 
